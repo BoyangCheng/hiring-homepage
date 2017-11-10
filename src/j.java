@@ -1,2 +1,2 @@
-public class j {
+public class j extends ddddd{
 }
