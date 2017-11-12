@@ -11,11 +11,11 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>出错了</title>
+        <title>error</title>
     <link href="CSS/style.css" rel="stylesheet" type="text/css">
 </head>
     <body>
-        <span class="zczi">出错了！
+        <span class="zczi">OOPS！
             The following error occurs:
             <%=
                 exception.getMessage()
