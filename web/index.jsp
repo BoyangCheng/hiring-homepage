@@ -23,7 +23,7 @@
     Context envCtx = (Context) initCtx.lookup("java:comp/env");
     DataSource ds = (DataSource) envCtx.lookup("jdbc/ConnectionPool");
     Connection cn=ds.getConnection();
-    String sql="show tables;";
+    String sql="SELECT * FROM Rawscores;";
     ResultSet rs=cn.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE,ResultSet.CONCUR_UPDATABLE).executeQuery(sql);
     ResultSetMetaData rsmd = rs.getMetaData();
     System.out.println("querying SELECT * FROM XXX");
