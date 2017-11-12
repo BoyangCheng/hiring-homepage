@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>出错了</title>
-<link href="CSS/style.css" rel="stylesheet" type="text/css">
+<link href="../../../../web/CSS/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <span class="zczi">出错了！

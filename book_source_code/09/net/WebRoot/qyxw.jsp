@@ -7,7 +7,7 @@
 <HEAD>
 <TITLE>企业新闻</TITLE>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<link href="CSS/style.css" rel="stylesheet" type="text/css">
+<link href="../../../../web/CSS/style.css" rel="stylesheet" type="text/css">
 </HEAD>
 <BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
 <TABLE WIDTH=1024 BORDER=0 CELLPADDING=0 CELLSPACING=0>
