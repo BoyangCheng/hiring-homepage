@@ -6,7 +6,7 @@
 <head>
 <title>企业门户网站首页面</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link href="CSS/style.css" rel="stylesheet" type="text/css">
+<link href="../../../../web/CSS/style.css" rel="stylesheet" type="text/css">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table id="__01" width="1025" height="813" border="0" cellpadding="0" cellspacing="0">

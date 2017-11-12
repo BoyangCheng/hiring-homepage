@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<title>保存上传文件</title>
-		<link href="../CSS/style.css" rel="stylesheet" type="text/css">
+		<link href="../../../../../web/CSS/style.css" rel="stylesheet" type="text/css">
 
 	</head>
 	<%

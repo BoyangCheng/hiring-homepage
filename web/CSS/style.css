@@ -3,7 +3,7 @@
 	color: #FF6501;
 }
 input{
-	font-family: "����";
+	font-family: "Times New Roman", Georgia, Serif;
 	font-size: 9pt;
 	color: #333333;
 	border: 1px solid #999999;
@@ -47,9 +47,9 @@ a {
 	BORDER: #666666 1px solid; VISIBILITY: hidden;
 	POSITION: absolute; 
 	/*BACKGROUND-COLOR:#EFEFEF;*/
-	background-image:url("../Images/item_out.gif");
+	background-image:url("../images/item_out.gif");
 	background-repeat : repeat-y;
-    Filter: Alpha(Opacity=85);
+    /*Filter: Alpha(Opacity=85);*/
 	}
 
 .lz {

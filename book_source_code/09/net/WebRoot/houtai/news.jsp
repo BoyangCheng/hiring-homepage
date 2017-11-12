@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>Insert title here</title>
-<link href="../CSS/style.css" rel="stylesheet" type="text/css">
+<link href="../../../../../web/CSS/style.css" rel="stylesheet" type="text/css">
 <SCRIPT language=JavaScript>
 var LastCount =0;
 function CountStrByte(Message,Total,Used,Remain){

@@ -9,7 +9,7 @@
 <head>
 
 <title>Insert title here</title>
-<link href="../CSS/style.css" rel="stylesheet" type="text/css">
+<link href="../../../../../web/CSS/style.css" rel="stylesheet" type="text/css">
 </head>
 <body background="../images/ht043.gif" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <div align="center">

@@ -7,7 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-<link href="../CSS/style.css" rel="stylesheet" type="text/css">
+<link href="../../../../../web/CSS/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <%

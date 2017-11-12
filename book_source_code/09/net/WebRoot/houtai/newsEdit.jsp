@@ -33,7 +33,7 @@ if(LastCount != StrLength){
 }
 </SCRIPT>
 
-<link href="../CSS/style.css" rel="stylesheet" type="text/css">
+<link href="../../../../../web/CSS/style.css" rel="stylesheet" type="text/css">
 </head>
 <body background="../images/ht04.gif" bgcolor="#FFFFFF" >
 <form name="form1" method="post" action="newsEdittest.jsp">
